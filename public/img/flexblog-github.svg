@@ -4,5 +4,5 @@
 <mask id="path-3-inside-1" fill="white">
 <rect width="600" height="369.13" rx="10"/>
 </mask>
-<rect width="600" height="369.13" rx="10" stroke="#2C70FF" stroke-width="50" mask="url(#path-3-inside-1)"/>
+<rect width="600" height="369.13" rx="10" stroke="#2C70FF" stroke-width="40" mask="url(#path-3-inside-1)"/>
 </svg>
